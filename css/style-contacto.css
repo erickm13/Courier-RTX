@@ -1,0 +1,38 @@
+.container-portada p{
+    font-size: 3rem;
+    color: white;
+    position: absolute;
+    top: 40%;
+    left: 49%;
+    transform: translate(-50%,-100%);
+    text-shadow: 0 0 3px rgba(0, 0, 0.8);
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: bold;
+}
+
+
+.formulario h3{
+    font-size: 3rem;
+    color: rgb(36, 48, 118);
+    position:relative;
+    margin-top: 5%;
+    margin-left: 38%;
+    text-shadow: 0 0 1px rgba(0, 0, 0.8);
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
+
+.container{
+    margin-top: 5%;
+}
+
+.col-4{
+    margin-left: 25%;
+}
+
+.card{
+    margin-left: 21%;
+    margin-bottom: 50%;
+}
+
+
+

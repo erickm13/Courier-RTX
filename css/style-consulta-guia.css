@@ -1,0 +1,46 @@
+.progress{
+    
+    height: 150%;
+    width: 130%;
+    margin-left: 60%;
+}
+
+.container-progressbar{
+    margin-top: -1.5%;
+    margin-bottom: 15%;
+}
+
+.container-img{
+    margin-left: 24%;
+    margin-right: 20%;
+}
+
+.formulario h3{
+    font-size: 3rem;
+    color: rgb(36, 48, 118);
+    position:relative;
+    margin-top: 5%;
+    margin-left: 38%;
+    text-shadow: 0 0 1px rgba(0, 0, 0.8);
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
+
+.resultado-guia{
+    margin-top: 3%;
+    margin-bottom: 3%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-left: 20%;
+    margin-right: 70%;
+    width: 60%;
+}
+
+.estatus{
+    margin-left: 46%;
+    margin-right: 43%;
+    margin-top: -13%;
+    margin-bottom: 11%;
+}
+
+

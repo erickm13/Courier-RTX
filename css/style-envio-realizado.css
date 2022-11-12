@@ -1,0 +1,27 @@
+.aviso-str{
+    font-size: 3rem;
+    color: rgb(36, 48, 118);
+    position:relative;
+    margin-top: 8%;
+    margin-left: 38%;
+    text-shadow: 0 0 1px rgba(0, 0, 0.8);
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
+
+.aviso-guia{
+    font-size: 3rem;
+    color: rgb(36, 48, 118);
+    position:relative;
+    margin-top: 1%;
+    margin-left: 39.5%;
+    margin-bottom: 15%;
+    text-shadow: 0 0 1px rgba(0, 0, 0.8);
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
+
+.boton a{
+    margin-top: -13%;
+    margin-left: 38%;
+    margin-bottom: 19%;
+    width: 20%;
+}
